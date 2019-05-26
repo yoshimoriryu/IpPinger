@@ -1,2 +1,2 @@
 # IpPinger
-ping multiple IP
+ping multiple IP with python

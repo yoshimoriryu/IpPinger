@@ -1,0 +1,2 @@
+# IpPinger
+ping multiple IP

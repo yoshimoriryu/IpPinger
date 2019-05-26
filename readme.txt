@@ -1,5 +1,27 @@
-petunjuk penggunaan:
+User Guidance:
 
+==========pingserver===========
+a. open CMD as admin
+b. open directory where pingserver.py stored
+c. run pingserver.py 
+d. let the program running
+DONT CLOSE THE PROGRAM IF YOU WANT TO KEEP UPDATING
+
+
+
+==========serverstatus===========
+a. open CMD 
+b. open directory where serverstatus.py stored
+c. run serverstatus.py 
+d. let the program running
+DONT CLOSE THE PROGRAM IF YOU WANT TO KEEP UPDATING
+
+
+
+################################################################################################################
+
+
+petunjuk penggunaan:
 
 WINDOWS:
 =============pingserver=================

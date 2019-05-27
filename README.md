@@ -7,5 +7,5 @@ serverstatus.py to create a GUI that show server status based on recent ping by 
 
 requirement:
 1. Python 3
-2. pings lib on python: pip install pings
-3. pygame lib on python: pip install pygame
+2. pings packages on python: pip install pings
+3. pygame packages on python: pip install pygame

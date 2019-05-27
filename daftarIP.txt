@@ -1,0 +1,33 @@
+IP komputer depan
+10.0.104.135
+IP Google
+8.8.8.8
+IP random
+7.7.7.7
+dota 2 site
+dota2.com
+IP random lagi
+5.5.5.5
+facebook
+facebook.com
+reddit
+reddit.com
+youtube
+youtube.com
+comparitech
+comparitech.com
+superuser
+superuser.com
+bagikuy
+bagikuy.com
+ashura
+ashura.id
+detik news
+detik.com
+netflix
+netflix.com
+instagram
+instagram.com
+
+######################
+format input dapat dilihat dari contoh diatas

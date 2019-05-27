@@ -1,31 +1,31 @@
-10.0.104.135
+IP komputer depan
+True
+IP Google
+True
+IP random
 False
-8.8.8.8
+dota 2 site
 True
-7.7.7.7
+IP random lagi
 False
-dota2.com
+facebook
 True
-5.5.5.5
+reddit
+True
+youtube
+True
+comparitech
+True
+superuser
+True
+bagikuy
+True
+ashura
+True
+detik news
+True
+netflix
+True
+instagram
 False
-facebook.com
-True
-reddit.com
-True
-youtube.com
-True
-comparitech.com
-True
-superuser.com
-True
-bagikuy.com
-True
-ashura.id
-True
-detik.com
-True
-netflix.com
-True
-www.instagram.com
-True
-04:47:02
+10:10:12

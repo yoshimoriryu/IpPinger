@@ -1,6 +1,9 @@
 import time
-import pygame
 import socket
+import contextlib
+import os
+with contextlib.redirect_stdout(None):
+    import pygame
 
 def statusCheck(input):
     if input == "T":
@@ -83,6 +86,8 @@ while True:
 	filein = open("result.txt", "r")
 	allstatus = filein.readlines()
 	filein.close()
+	os.system('cls')
+	print("Serverstatus is running...")
 	try:
 		#read all status from .txt file here
 		statusA = statusCheck(allstatus[1][0])
@@ -153,7 +158,8 @@ while True:
 		statusO = statusCheck(allstatus[29][0])
 		colorO = statusColor(statusO)
 	####end of try and except
-
+	os.system('cls')
+	print("Serverstatus is running..")
 
 	theTime=time.strftime("%H:%M:%S", time.localtime())
 	lastUpdate = allstatus[30]
@@ -237,5 +243,7 @@ while True:
 	screen.blit(lastUpdateText, (0,60))
 
 	clock.tick(1)
+	os.system('cls')
+	print("Serverstatus is running.")
 	pygame.display.update()
     
